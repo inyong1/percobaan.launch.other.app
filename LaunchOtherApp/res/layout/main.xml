@@ -6,9 +6,13 @@
 	android:padding="25dp">
 
     <Button
-		android:id="@+id/tombol_masuk_setting"
+		android:id="@+id/id_tombol_masuk_setting"
 		android:text="Masuk Setting HH"
 		android:layout_height="wrap_content"
 		android:layout_width="match_parent"/>
-
+	<Button
+		android:id="@+id/id_tombol_masuk_firetool"
+		android:text="Masuk FireTools"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"/>
 </LinearLayout>
