@@ -6,6 +6,7 @@ import android.view.*;
 import android.view.View.*;
 import android.widget.*;
 import android.content.*;
+import android.text.method.*;
 
 public class MainActivity extends Activity implements OnClickListener
 {
